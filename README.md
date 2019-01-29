@@ -11,9 +11,9 @@ username: dip@gmail.com
 password: dip123
 
 
-##How to run a Project? 
+## How to run a Project? 
 
-####Steps to Setup the Database
+#### Steps to Setup the Database
 1. Locate the folder named database inside which there exists a file named *elibary.sql*
 2. Create new database named *elibrary*
 3. Select the database file and Go to the SQL menu in your database.
